@@ -19,6 +19,7 @@ flowchart LR
     C --> H[changes.md]
 
     C --> I[Daily Priority Output]
+```
 
 ---
 

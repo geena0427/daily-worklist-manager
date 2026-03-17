@@ -5,6 +5,19 @@
 Daily Worklist Manager 是一套基于 Markdown 文件持久化的 workflow skill。  
 它不是简单的待办清单，而是一个能持续接住你的零散输入、维护长期记忆、动态重排优先级，并生成每日行动建议的个人工作管家。
 
+User Input
+   ↓
+Agent Skill
+   ↓
+Memory System
+   ├── background.md
+   ├── tasks_active.md
+   ├── tasks_archive.md
+   ├── today.md
+   └── changes.md
+   ↓
+Daily Priority Output
+
 ---
 
 ## 它能做什么
